@@ -1,8 +1,8 @@
 ### Hi there 👋
-Walter here! Some of the things I'm doing are listed here.
+Walter here! Some of the things I'm doing are listed below.
 
-- 🌱 I’m currently learning Deep learning these days, doing a Coursera specialization at the moment.
-- 🔭 I’m working on a computer vision project. It's a basic robot that can be driven by doing hand gestures.
+- 🌱 I’m currently learning Deep Learning these days, doing a Coursera specialization
+- 🔭 I’m working on a computer vision project. It's a basic robot that can be driven by hand gestures
 - 📫 How to reach me: https://www.linkedin.com/in/walterbrunetti/
 
 <!--
