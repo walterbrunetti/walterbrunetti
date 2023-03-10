@@ -1,4 +1,9 @@
 ### Hi there 👋
+Walter here! Some of the things I'm doing are listed here.
+
+- 🌱 I’m currently learning Deep learning these days, doing a Coursera specialization at the moment.
+- 🔭 I’m working on a computer vision project. It's a basic robot that can be driven by doing hand gestures.
+- 📫 How to reach me: https://www.linkedin.com/in/walterbrunetti/
 
 <!--
 **walterbrunetti/walterbrunetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
